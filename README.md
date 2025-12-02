@@ -1,4 +1,4 @@
-## CPI-Index-Prediction
+## CPI Index Prediction
 
 The report is made for the individual assignment for USYD's unit - QBUS2820.
 
