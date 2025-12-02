@@ -1,4 +1,7 @@
 ## CPI-Index-Prediction
+
+The report is made for the individual assignment for USYD's unit - QBUS2820.
+
 The Consumer Price Index (CPI) is a measure that examines the weighted average of prices of consumer goods and services, such as transportation, food, and medical care. It is calculated
  by taking price changes for each item in a predetermined basket of goods and averaging them. Changes in the CPI are used to assess price changes associated with the cost of living. The CPI is
  one of the most frequently used measures of inflation and deflation 1.
